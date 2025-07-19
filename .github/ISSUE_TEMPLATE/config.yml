@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: [PROJECT NAME] Community Support
+    url: https://github.com/jeffbulltech/docs_templates/discussions
+    about: Please ask and answer questions here.
