@@ -30,7 +30,7 @@ Relative path (within your repo)
 
 
 ## Image shield (remove this heading)
-Many 'shields' are available including those below. Refer to https://github.com/badges/shields for more. These are useful in sharing key actions you want people to take, or in providing clear insights such as current release version. 
+Many 'shields' are available including those below. Refer to https://shields.io/ for more. These are useful in sharing key actions you want people to take, or in providing clear insights such as current release version. 
 
 To format using HTML
 ```html
