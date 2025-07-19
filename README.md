@@ -1,7 +1,3 @@
-# [Project Name]
-
-<!-- Replace [Project Name] with your actual project name -->
-
 ## Banner / branding
 [_OPTIONAL_]
 Utilize one or more of the following tools to improve the developer/user experience with your repo. 
