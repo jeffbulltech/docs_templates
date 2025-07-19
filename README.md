@@ -35,11 +35,9 @@ Many 'shields' are available including those below. Refer to https://github.com/
 To format using HTML
 ```html
 <div align="center">
- <a href="https://github.com/kestra-io/kestra/releases"><img src="https://img.shields.io/github/tag-pre/kestra-io/kestra.svg?color=blueviolet" alt="Last Version" /></a>
-  <a href="https://github.com/kestra-io/kestra/blob/develop/LICENSE"><img src="https://img.shields.io/github/license/kestra-io/kestra?color=blueviolet" alt="License" /></a>
-  <a href="https://github.com/kestra-io/kestra/stargazers"><img src="https://img.shields.io/github/stars/kestra-io/kestra?color=blueviolet&logo=github" alt="Github star" /></a> <br>
-<a href="https://kestra.io"><img src="https://img.shields.io/badge/Website-kestra.io-192A4E?color=blueviolet" alt="Kestra infinitely scalable orchestration and scheduling platform"></a>
-<a href="https://kestra.io/slack"><img src="https://img.shields.io/badge/Slack-Join%20Community-blueviolet?logo=slack" alt="Slack"></a>
+ <a href="https://github.com/[USERNAME]/[REPO]/stargazers"><img src="https://img.shields.io/github/stars/:user/:repo" alt="Last Version" /></a>
+  <a href="https://github.com/[USERNAME]/[REPO]/releases"><img src="https://img.shields.io/github/tag-pre/:user/:repo
+" alt="Last Version" /></a>
 </div>
 
 <br />
@@ -47,11 +45,8 @@ To format using HTML
 
 To format using Markdown
 ```markdown
-[![GitHub stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=social)](https://github.com/conductor-oss/conductor/stargazers)
-[![Github release](https://img.shields.io/github/v/release/conductor-oss/conductor.svg)](https://github.com/conductor-oss/conductor/releases)
-[![License](https://img.shields.io/github/license/conductor-oss/conductor.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-[![Conductor Slack](https://img.shields.io/badge/Slack-Join%20the%20Community-blueviolet?logo=slack)](https://join.slack.com/t/orkes-conductor/shared_invite/zt-2vdbx239s-Eacdyqya9giNLHfrCavfaA)
-[![Conductor OSS](https://img.shields.io/badge/Conductor%20OSS-Visit%20Site-blue)](https://conductor-oss.org)
+[![GitHub stars](https://img.shields.io/github/stars/:user/:repo?style=social)](https://github.com/:user/:repo/stargazers)
+[![Github release](https://img.shields.io/github/v/release/:user/:repo.svg)](https://github.com/:user/:repo/releases)
 ```
 
 ## Description
